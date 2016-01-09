@@ -11,3 +11,7 @@ I can add only one file at the time to the staging area and then comming to only
 What are some situations when branches would be helpful in keeping your history organized ? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in the diagram the wey we do?
+
+what are the pros and cons of git's automatic merging vs always doing merges manually?
